@@ -135,4 +135,4 @@ For questions or feedback, open an issue on [GitHub](https://github.com/armanjsc
 - Enhance the interface with visualizations of job trends.
 - Optimize model inference for lower-end hardware using quantization.
 
-#هوش_مصنوعی #فاین_تیونینگ #خراشش_وب #پروژه_پایتون #مدل_زبانی #Jobinja #Selenium #HuggingFace #Transformers #LoRA #PEFT #ایران_تک #فناوری #AI_در_ایران
+#هوش_مصنوعی #فاین_تیونینگ #اسکریپینگ_وب #پروژه_پایتون #مدل_زبانی #Jobinja #Selenium #HuggingFace #Transformers #LoRA #PEFT #ایران_تک #فناوری #AI_در_ایران
